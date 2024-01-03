@@ -1,6 +1,6 @@
 {
   "name": "@ichiql/delay",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "simple delay(sleep)",
   "keywords": [
     "delay",
